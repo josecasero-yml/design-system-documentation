@@ -1,0 +1,17 @@
+{
+  "font": {
+    "font": {
+      "value": {
+        "family": {
+          "type": "string",
+          "value": "Open Sans"
+        },
+        "subfamily": {
+          "type": "string",
+          "value": "regular"
+        }
+      },
+      "type": "font"
+    }
+  }
+}

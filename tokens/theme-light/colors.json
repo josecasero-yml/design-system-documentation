@@ -1,0 +1,76 @@
+{
+  "color": {
+    "action": {
+      "primary-default": {
+        "value": "#e90e6aff",
+        "type": "color"
+      },
+      "primary-hover": {
+        "value": "#1371d5ff",
+        "type": "color"
+      },
+      "primary-pressed": {
+        "value": "#074288ff",
+        "type": "color"
+      },
+      "primary-disabled": {
+        "value": "#9d9d9dff",
+        "type": "color"
+      },
+      "primary-inversed-default": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "primary": {
+        "value": "#f5f6faff",
+        "type": "color"
+      }
+    },
+    "layer": {
+      "primary-default": {
+        "value": "#ffffffff",
+        "type": "color"
+      }
+    },
+    "icon": {
+      "decorative": {
+        "value": "#0a5ec0ff",
+        "type": "color"
+      },
+      "decorative-container": {
+        "value": "#cee6ffff",
+        "type": "color"
+      },
+      "interactive-default": {
+        "value": "#6c6d6fff",
+        "type": "color"
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#231f20ff",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#424242ff",
+        "type": "color"
+      },
+      "link-primary-default": {
+        "value": "#0a5ec0ff",
+        "type": "color"
+      },
+      "link-default-inversed": {
+        "value": "#f5f6faff",
+        "type": "color"
+      }
+    },
+    "stroke": {
+      "action-default": {
+        "value": "#0a5ec0ff",
+        "type": "color"
+      }
+    }
+  }
+}
